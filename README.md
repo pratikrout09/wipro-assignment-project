@@ -63,7 +63,7 @@ System-Monitor-Tool/
 │
 ├── README.md                    # Project documentation
 ├── .gitignore                   # Ignore unnecessary files
-└── requirements.txt              # Optional software info
+
 ```
 
 
