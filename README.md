@@ -106,11 +106,20 @@ PID    CPU%   MEM%   RSS(MB)   NAME
 
 ### 🖼️ Screenshots
 
-| CPU Sort | Memory Sort | Running Monitor |
-|-----------|--------------|----------------|
-| ![CPU Sort](screenshots/monitor_cpu_sort.png) | ![MEM Sort](screenshots/monitor_mem_sort.png) | ![Running](screenshots/monitor_run.png) |
+### 🟢 Running Monitor
+![Running Monitor](screenshots/monitor_run.png)
 
 ---
+
+### ⚙️ Feature Previews
+| CPU Sort | Memory Sort |
+|-----------|--------------|
+| ![CPU Sort](screenshots/monitor_cpu_sort.png) | ![MEM Sort](screenshots/monitor_mem_sort.png) |
+
+| Kill Process | Exit |
+|---------------|------|
+| ![Kill](screenshots/kill.png) | ![Exit](screenshots/exit.png) |
+
 
 ## 🧠 8. Results & Observations
 
@@ -133,9 +142,8 @@ This project demonstrates practical **system-level programming skills** and buil
 ## 👨‍💻 10. Author
 
 **Pratik Rout**  
-3rd Year – Computer Science and Information Technology  
-GitHub: [Your GitHub Profile Link]  
-Email: [Your Email or Portfolio Link]
+Final Year – Computer Science and Information Technology  
+
 
 ---
 
