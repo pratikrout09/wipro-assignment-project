@@ -1,4 +1,4 @@
-# 🖥️ System Monitor Tool (mini-top)
+# 🖥️ System Monitor Tool
 ### *Capstone Project - Assignment 3 (LSP)*
 
 ---
